@@ -14,9 +14,9 @@
 #include <iostream>
 #include <fstream>
 #include <math.h>
-#include <stdio.h>
 #include <string>
 #include <ctype.h>
+#include "cmplx.h"
 
 #include "winbgim.h"
 #include "graphics.h"
