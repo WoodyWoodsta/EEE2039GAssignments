@@ -1,0 +1,28 @@
+﻿  winthread.cxx
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\winthread.cxx(320): warning C4101: 'i' : unreferenced local variable
+  winbgi.cxx
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\winbgi.cxx(81): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\winbgi.cxx(134): warning C4101: 'actual_color' : unreferenced local variable
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\winbgi.cxx(133): warning C4101: 'bgi_color' : unreferenced local variable
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+  text.cxx
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\text.cxx(348): warning C4018: '<' : signed/unsigned mismatch
+  stdafx.cpp
+  palette.cxx
+  mouse.cxx
+  misc.cxx
+  main.cpp
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\main.cpp(212): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\main.cpp(213): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+  file.cxx
+  drawing.cxx
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\drawing.cxx(819): warning C4101: 'tries' : unreferenced local variable
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\drawing.cxx(859): warning C4101: 'answer' : unreferenced local variable
+d:\itdev\projects\eee2039gassignments\assignment 2\assignment 2\drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 12.0\vc\include\string.h(118) : see declaration of 'strcat'
+  dibutil.cxx
+  bgiout.cxx
+  Generating Code...
+  LINK : D:\ITDev\Projects\EEE2039GAssignments\Assignment 2\Debug\Assignment 2.exe not found or not built by the last incremental link; performing full link
+  Assignment 2.vcxproj -> D:\ITDev\Projects\EEE2039GAssignments\Assignment 2\Debug\Assignment 2.exe
